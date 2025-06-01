@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jesus-H-Chist
+- 👋 Hi, I’m @Jesus-H-Christ
 - 🌱 I’m currently learning game design.
 
 <!---
